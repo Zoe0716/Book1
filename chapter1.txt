@@ -1,1 +1,4 @@
 The application of AI includes computer vision, NLP, data analysis, and prediction.
+
+
+Recommendation system is quite applicable in industry.
